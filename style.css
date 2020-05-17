@@ -1,7 +1,12 @@
 h1 {text-align: center;
 color: rgb(51, 51, 172);
 font-size: 38px;
+font-family: monospace;
 }
+h2 {text-align: center;
+color: rgb(86, 91, 97);
+font-family: monospace;
+font-size: 30px;}
 
 .fixed-image {
     width: 800px;
