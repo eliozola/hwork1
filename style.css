@@ -7,13 +7,21 @@ h2 {text-align: center;
 color: rgb(86, 91, 97);
 font-family: monospace;
 font-size: 30px;}
+h3 {
+    text-align: left ;
+    color: rgb(86, 91, 97);
+    font-family: monospace;
+    font-size: 28px;
 
+}
 p {
     color:rgb(86, 91, 97);
     font-family: monospace;
     font-size: 20px;
 }
-
+ul { color:rgb(86, 91, 97);
+    font-family: monospace;
+    font-size: 20px;}
 .fixed-image {
     width: 800px;
     width: 60%;
@@ -23,6 +31,14 @@ p {
       align-items: center;
       width: 20%;
   }
+
+  .big-image {
+      width: 60%;
+      width: 800px;
+      align-items: center;
+
+}
+
   .center {
     display: block;
     margin-left: auto;
