@@ -18,10 +18,17 @@ p {
     color:rgb(86, 91, 97);
     font-family: monospace;
     font-size: 20px;
+    
 }
 ul { color:rgb(86, 91, 97);
     font-family: monospace;
     font-size: 20px;}
+
+    ol {
+        color:rgb(86, 91, 97);
+        font-family: monospace;
+        font-size: 20px;
+    }
 .fixed-image {
     width: 800px;
     width: 60%;
@@ -38,10 +45,17 @@ ul { color:rgb(86, 91, 97);
       align-items: center;
 
 }
-
+.gray-image {
+    width: 100px;
+      align-items: center;
+      width: 5%;
+}
   .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
 
+  }
+  footer {
+      text-align: center;
   }
