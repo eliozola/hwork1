@@ -16,10 +16,16 @@ p {
 
 .fixed-image {
     width: 800px;
+    width: 60%;
+  }
+  .smaller-image{
+      width: 300px;
+      align-items: center;
+      width: 20%;
   }
   .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+
   }
