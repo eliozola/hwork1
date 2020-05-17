@@ -8,6 +8,12 @@ color: rgb(86, 91, 97);
 font-family: monospace;
 font-size: 30px;}
 
+p {
+    color:rgb(86, 91, 97);
+    font-family: monospace;
+    font-size: 20px;
+}
+
 .fixed-image {
     width: 800px;
   }
